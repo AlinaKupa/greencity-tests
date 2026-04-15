@@ -8,6 +8,7 @@ Medium
 - Page "Events" is opened
 - "Uk" language is selected in dropdown list
 ## Test steps:
+
 **Step** |             **Action**           | **Data** | **Expected result**
 1    | Click on language selector   |   -  | Language options in drop down list are displayed
 2    | Select "En" in dropdown list |   -  | "En" option is seleted in dropdown list

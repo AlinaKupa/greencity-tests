@@ -22,6 +22,7 @@ High
 ## Preconditions
 - Page "Events" is opened
 ## Test steps:
+
 Step |                   Action                  |        Data       | Expected result
 1    | Click on "Search" field                   |         -         | "Search" field is active for input
 2    | Input a valid key words in "Search" field | "Eco Meetup 2026" | - 
@@ -35,6 +36,7 @@ High
 ## Preconditions
 - Page "Events" is opened
 ## Test steps:
+
 Step |                   Action                  | Data | Expected result
 1    | Click on "Event time" selector            |  -   | Options in dropdown list are displayed
 2    | Click on "Upcoming" option                |  -   | "Upcoming" option is selected

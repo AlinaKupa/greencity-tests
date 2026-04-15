@@ -1,5 +1,5 @@
 # Test Cases
-## ID-1
+- ## ID-1
 ## Summary:
 Change the language of the page to English
 ## Priority:
@@ -15,7 +15,7 @@ Medium
 2        | Select "En" in dropdown list     |     -    | "En" option is seleted in dropdown list
 3        | Check page content               |     -    | Page content is dispalyed in English
 
-## ID-2
+- ## ID-2
 ## Summary:
 Search the event by key words
 ## Priority:
@@ -30,7 +30,7 @@ High
 2        | Input a valid key words in "Search" field | "Eco Meetup 2026" | - 
 3        | Check given results                       |          -        | Events that contain key words are displayed
 
-## ID-3
+- ## ID-3
 ## Summary:
 Filter events by "Event time" criteria 
 ## Priority:

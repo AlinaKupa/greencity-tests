@@ -26,7 +26,7 @@ High
 
 **Step** |             **Action**                    |     **Data**      | **Expected result**
 ---------|-------------------------------------------|-------------------|--------------------------------------------
-1        | Click on "Search" field                   |         -         | "Search" field is active for input
+1        | Click on "Search" button                  |         -         | "Search" field is active for input
 2        | Input a valid key words in "Search" field | "Eco Meetup 2026" | - 
 3        | Check given results                       |          -        | Events that contain key words are displayed
 
